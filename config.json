@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Mathavaprakash Amutharaj",
-    "tagline": "Developer and Creator."
+    "tagline": "🚀 Lead Analyst @ CGI | 🤖 UiPath Solution Architect | 🧠 Intelligent Automation Expert | 💡 Driving Digital Transformation with RPA & AI"
   },
   "social_links": [
     {
@@ -29,12 +29,21 @@
       "url": "https://github.com/mathavaprakash",
       "icon": "github",
       "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mathavaprakash/",
+      "icon": "linkedin",
+      "required": true
     }
   ],
   "github_username": "mathavaprakash",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
+      "Highly motivated RPA Developer with 8 years of IT experience and 6 years specializing in UiPath development.",
+      "Proven ability to deliver impactful automation solutions that streamline business processes and improve efficiency. ",
+      "Possesses strong analytical and problem-solving skills, coupled with excellent communication and collaboration abilities. ",
+      "Eager to leverage expertise in UiPath and a passion for continuous learning to contribute to a dynamic and innovative team.",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
